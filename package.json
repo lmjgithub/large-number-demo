@@ -1,6 +1,6 @@
 {
   "name": "large-number-demo-by-lmj_key",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "lmj_key的大数相加",
   "main": "index.js",
   "scripts": {
