@@ -1,0 +1,26 @@
+{
+  "name": "large-number-demo-by-lmj_key",
+  "version": "1.0.0",
+  "description": "lmj_key的大数相加",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prepublish": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lmjgithub/large-number-demo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lmjgithub/large-number-demo/issues"
+  },
+  "homepage": "https://github.com/lmjgithub/large-number-demo#readme",
+  "devDependencies": {
+    "terser-webpack-plugin": "^2.3.4",
+    "webpack": "^4.41.5",
+    "webpack-cli": "^3.3.10"
+  }
+}
